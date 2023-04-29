@@ -6,7 +6,7 @@ A Chrome/Edge extension to follow friends on LeetCode
 
 ## What is this
 
-There is an [issue](https://leetcode.com/discuss/feedback/261518/is-there-a-way-to-search-and-follow-users-in-leetcode/1424994) about following friends on LeetCode. Because of the feature is not yet right now, I implemented thsi simple extension to follow friends on LeetCode.
+There is an [issue](https://leetcode.com/discuss/feedback/261518/is-there-a-way-to-search-and-follow-users-in-leetcode/1424994) about following or searching friends on LeetCode. Because of the feature is not yet right now, I implemented thsi simple extension to follow up your friends on LeetCode.
 Thanks to JeremyTsaii, the API I'm using is call from [the project](https://github.com/JeremyTsaii/leetcode-stats-api) (`https://leetcode-stats-api.herokuapp.com/`).
 
 ## How to install
